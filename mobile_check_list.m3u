@@ -35,9 +35,9 @@ http://39.137.49.76:8080/PLTV/88888910/224/3221225641/index.m3u8?zoneoffset=0&se
 http://39.137.49.76:8080/PLTV/88888910/224/3221226230/index.m3u8?zoneoffset=0&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%2C34467740%2C10.149.188.82%2C20230130104534%2Curn%3AHuawei%3AliveTV%3AXTV542508538%2C34467740%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C542508539%2CEND&GuardEncType=2
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17农业农村高清4M
 http://39.137.49.76:8080/PLTV/88888910/224/3221225908/index.m3u8?zoneoffset=0&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%2C34467740%2C10.149.188.82%2C20230130104534%2C10000100000000050000000001740170%2C34467740%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000001807299_0%2CEND&GuardEncType=2
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K
+#EXTINF:-1,tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K
 https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="央视",欢笑剧场4k
+#EXTINF:-1,tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="央视",欢笑剧场4k
 https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
 http://39.137.49.76:8080/PLTV/88888910/224/3221225657/index.m3u8?zoneoffset=0&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%2C34467740%2C10.149.188.82%2C20230130104534%2C10000100000000050000000000727090%2C34467740%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000000769684_0%2CEND&GuardEncType=2
